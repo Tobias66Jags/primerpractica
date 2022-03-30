@@ -4,4 +4,5 @@ perepump@gmail.com
 
 *Framework a utilizar: Eleventy*
 
-## Prueba de funcionamiento en nuevo repo local 
+### Enlace hacia el resumen de sistemas operativos:
+[Sistemas Operativos](SO.md)
