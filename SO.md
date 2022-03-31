@@ -11,7 +11,7 @@ Para empezar debemos comprender que es un sistema, donde existen elementos que c
 
 Un sistema operativo es donde el *software* y el *hardware* interactuán juntos para intercambiar información y funciones.
 
-[Para conocer más sobre los sistemas operativos da *clic* en este link](https://www.youtube.com/watch?v=fsuroRYmagw)
+[Para conocer más sobre los sistemas operativos da *clic* en este *link*](https://www.youtube.com/watch?v=fsuroRYmagw)
 
 ### Componentes de un sistema operativo.
 
